@@ -1,5 +1,10 @@
 # White-Wine-Project
 
+## Project contributors:
+Dan Simard
+Luca Spinella
+Aidan Languedoc
+
 ## Details
 
   This project's intention is to create a visualization of a decision tree as well as create a path going through each node allowing the user to trace their steps from the decisions they make. 
