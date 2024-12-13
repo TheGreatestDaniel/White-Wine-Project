@@ -1,7 +1,7 @@
 # White-Wine-Project
 
 ## Project contributors:
-Dan Simard,
+Daniel Simard,
 Luca Spinella,
 Aidan Languedoc
 
